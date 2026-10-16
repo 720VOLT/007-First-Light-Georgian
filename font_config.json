@@ -1,0 +1,23 @@
+{
+  "scale_em": 1024,
+  "scale_size": 20,
+  "ttf_upm": 1000,
+  "flip_y": true,
+  "weights": {
+    "1": "./fonts/NotoSansGeorgian-Bold.ttf",
+    "2": "./fonts/NotoSansGeorgian-Regular.ttf",
+    "3": "./fonts/NotoSansGeorgian-Regular.ttf",
+    "4": "./fonts/NotoSansGeorgian-Regular.ttf",
+    "5": "./fonts/NotoSansGeorgian-Bold.ttf",
+    "6": "./fonts/NotoSansGeorgian-Regular.ttf"
+  },
+  "codepoints": {
+    "ranges": [
+      [
+        4304,
+        4337
+      ]
+    ],
+    "extras": []
+  }
+}
